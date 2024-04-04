@@ -21,7 +21,7 @@ repository               : "BI4PYM/BI4PYM.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/1263188827_bbf0025b2c41682c9fa27101a5fcc8b4.jpg"
+  avatar           : "1263188827_bbf0025b2c41682c9fa27101a5fcc8b4.jpg"
   name             : "BI4PYM"
   pronouns         : # example: "she/her"  
   bio              : "业余无线电爱好者"
