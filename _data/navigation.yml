@@ -1,6 +1,10 @@
 # main links links
 main:
-        
+
+                
+  - title: "首页"
+    url: /
+    
   - title: "博客"
     url: /year-archive/
     
