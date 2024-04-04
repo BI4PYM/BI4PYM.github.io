@@ -1,13 +1,12 @@
 # main links links
 main:
-  - title: "出版物"
-    url: /publications/  
         
   - title: "博客"
     url: /year-archive/
     
   - title: "简历"
     url: /cv/
+
+  - title: "出版物"
+    url: /publications/  
     
-  - title: "Guide"
-    url: /markdown/
