@@ -9,8 +9,6 @@ redirect_from:
 
 ![Alt](https://forum.hamcq.cn/assets/avatars/f4HJalvYcIsdJdNZ.png)
 
-<font size="5">HamCQ 社区</font>
+[<font size="5">HamCQ 社区</font>](https://forum.hamcq.cn)
 
 业余无线电爱好者社区
-
-https://forum.hamcq.cn
