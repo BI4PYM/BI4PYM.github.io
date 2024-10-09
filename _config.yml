@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh_CN"
-title                    : "BI4PYM个人网站"
+title                    : "BI4PYM陋室"
 title_separator          : "-"
 name                     : &name "BI4PYM"
 description              : &description "业余无线电爱好者"
