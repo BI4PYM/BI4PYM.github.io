@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "zh_CN"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "BI4PYM陋室"
+title                    : "BI4PYM个人网站"
 title_separator          : "-"
 name                     : &name "BI4PYM"
-description              : &description "业余无线电爱好者"
+description              : &description "业余无线电爱好者 C类"
 url                      : https://www.bi4pym.cn
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BI4PYM/BI4PYM.github.io"
